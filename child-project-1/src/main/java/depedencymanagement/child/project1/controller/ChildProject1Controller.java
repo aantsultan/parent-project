@@ -16,6 +16,7 @@ public class ChildProject1Controller {
 
     @GetMapping("/get-detail")
     public ResponseEntity<CommonEntity> getDetail(@RequestParam String id){
+        System.out.println("hello");
         log.debug("request : "+id);
         return new ResponseEntity<>(new CommonEntity(id), HttpStatus.OK);
     }
