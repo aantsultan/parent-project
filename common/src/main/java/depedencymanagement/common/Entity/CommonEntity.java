@@ -10,4 +10,5 @@ import lombok.Setter;
 public class CommonEntity {
 
     private String id;
+    private String name;
 }
