@@ -1,0 +1,4 @@
+depedencymanagement/child/project1/ChildProject1Main.java
+ depedencymanagement.child.project1.ChildProject1Main
+depedencymanagement/child/project1/controller/ChildProject1Controller.java
+ depedencymanagement.child.project1.controller.ChildProject1Controller
