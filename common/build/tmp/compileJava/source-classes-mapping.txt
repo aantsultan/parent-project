@@ -1,0 +1,4 @@
+depedencymanagement/common/CommonMain.java
+ depedencymanagement.common.CommonMain
+depedencymanagement/common/Entity/CommonEntity.java
+ depedencymanagement.common.Entity.CommonEntity

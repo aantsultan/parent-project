@@ -1,0 +1,6 @@
+rootProject.name = 'parent-project'
+
+include 'child-project-1'
+include 'child-project-2'
+include 'common'
+
